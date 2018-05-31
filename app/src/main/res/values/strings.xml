@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Weather APP</string>
+    <string name="txt1">User_Name</string>
+    <string name="btn1">Connect</string>
+    <string name="toast1">Length of User_Name is short</string>
+    <string name="toast2">Length of User_Name is long</string>
+    <string name="string1">Humidity </string>
+    <string name="string2">Pressure </string>
+    <string name="toast3">Welcome</string>
+    <string name="menu1">Go to other App</string>
+    <string name="menu2">Help</string>
+    <string name="toast4">This show only the weather at Ivry sur Seine.. </string>
+</resources>

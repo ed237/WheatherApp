@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="app_name">Weather APP</string>
+    <string name="txt1">Nom_D_Utilisateur</string>
+    <string name="btn1">Connecte</string>
+    <string name="toast1">Longueur du pseudo est petite</string>
+    <string name="toast2">Longueur du pseudo est longue</string>
+    <string name="string1">Humidité </string>
+    <string name="string2">Pression </string>
+    <string name="toast3">Bienvenue</string>
+    <string name="menu1">Autre Appli</string>
+    <string name="menu2">Aide</string>
+    <string name="toast4">cette appli montre juste la météo à Ivry Sur Seine... </string>
+
+</resources>
